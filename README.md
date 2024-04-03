@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Catalina</h1>
-<h3 align="center">Full-stack developer, former product manager looking for new professional adventures :dizzy:</h3>
+<h3 align="center">Frontend developer, former product manager looking for new professional adventures :dizzy:</h3>
 
 - 🔭 I’m currently working on [Find My Midwife](www.findmymidwife.de)
 
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🌱 I’m currently learning **React JS, JavaScript**
 
 - 💬 Ask me about **Ruby on Rails, CSS or HTML**
 
