@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Catalina</h1>
 <h3 align="center">Frontend developer, former product manager looking for new professional adventures :dizzy:</h3>
 
-- 🔭 I’m currently working on [Find My Midwife](www.findmymidwife.de)
+- 🔭 I’m currently working on [Join]([www.findmymidwife.de](https://join.catalina-acosta-rivera.de/))
 
-- 🌱 I’m currently learning **React JS, JavaScript**
+- 🌱 I’m currently using **React JS, Angular**
 
-- 💬 Ask me about **Ruby on Rails, CSS or HTML**
+- 💬 Ask me about **Angular, JavaScript, CSS or HTML**
 
 - 📫 How to reach me **catalina.acosta.rivera@gmail.com**
 
